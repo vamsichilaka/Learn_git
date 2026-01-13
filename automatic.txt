@@ -1,1 +1,1 @@
-hello jenkins automatically triggered.
+hello jenkins automatically triggered, now.
